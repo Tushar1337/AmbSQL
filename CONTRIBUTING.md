@@ -4,7 +4,7 @@
 
 ### 1. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [AmbSQL](https://github.com/ambujraj/AmbSQL) by using the <a href="https://github.com/ambujraj/AmbSQL/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/ambujraj/AmbSQL/new/master?readme=1#fork-destination-box).
+You can get your own fork/copy of [AmbSQL](https://github.com/ambujraj/AmbSQL) by using the <a href="https://github.com/ambujraj/AmbSQL/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/ambujraj/AmbSQL/fork).
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/ambujraj/AmbSQL)
 
