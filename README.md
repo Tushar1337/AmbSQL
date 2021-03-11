@@ -61,7 +61,7 @@ If you installed <b>AmbSQL.exe</b>, below is the sample code:<br>
 
 ## Important Notice
 
-**AmbSQL** has been selected at [GirlScript Summer of Code 2021](https://www.gssoc.tech/)!!! 
+**AmbSQL** has been selected at [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech/index.html)!!! 
 <p align="center">
 <img src="https://www.gssoc.tech/images/type-logo.png">
 </p>
